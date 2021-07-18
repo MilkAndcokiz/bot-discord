@@ -1,1 +1,10 @@
 npm init
+package name: (tutobot)
+version: (1.0.0)
+description: A simple discord bot
+entry point: (index.js)
+test command:
+git repository: (https://github.com/GuiM0x/TutoBot.git)
+keywords:
+author: Guillaume M.
+license: (ISC)
